@@ -95,8 +95,8 @@ A pesar de la existencia de estos sistemas de bases de datos robustos y bien est
 5. Creditos - Las personas que contribuyeron al proyecto
 
 
-1. Leonel Joe Jaldin Gutierrez
-2. Leandro Joe Jaldin Gutierrez
+Leonel Joe Jaldin Gutierrez
+Leandro Joe Jaldin Gutierrez
 
 
 6.Herramientas utilizadas
