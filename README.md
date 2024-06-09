@@ -79,3 +79,53 @@ A pesar de la existencia de estos sistemas de bases de datos robustos y bien est
             Desde una perspectiva educativa, desarrollar una base de datos desde cero proporciona una valiosa experiencia de aprendizaje sobre cómo funcionan internamente las bases de datos, lo que es invaluable para el crecimiento profesional.
 5.	Optimización: 
             La capacidad de optimizar la base de datos para casos de uso específicos sin las limitaciones impuestas por un sistema de base de datos general.
+
+3. Estructura del Repositorio
+
+
+//EXPLICAR DE COMO ESTA COMPUESTO EL REPOSITORIO
+
+
+4. Pseudocodigo
+
+
+//FOTOS DE LOS PSEUDOCODIGOSS REALIZADOS
+
+
+5. Creditos - Las personas que contribuyeron al proyecto
+
+
+1. Leonel Joe Jaldin Gutierrez
+2. Leandro Joe Jaldin Gutierrez
+
+
+6.Herramientas utilizadas
+
+
+1.	https://www.youtube.com/watch?v=AEUPlMPFzDQ
+Como hacer un menu en C++ con do while (menú) - Fundamentos de Programación - 19
+
+En este video me guie  como hacer un menú para nuestra base de datos y  nos ayuda a conectar nuestra variable comando con con los comandos que van apareciendo en nuestro menú como Add, Del, Find, Print y nuestra opción salir.
+
+2.	https://www.youtube.com/watch?v=OxrBnQcDlf8
+Lenguaje C, programa para buscar una palabra en una frase, cadenas de caracteres, repetitivas
+
+este video nos ayuda al Analís de la primera función de obtenerPrimeraPalabra en el conteo de las palabras desde cero hasta el primer espacio 
+
+4.	https://www.youtube.com/watch?v=mtxeDGMzoLY
+C++ : What does string::npos mean in this code?
+
+En este video nos ayuda a entender cual es el significado de string::npos significa no encontrado, significa que el elemnto no se encuentra en la poasicion del elemnto en la cadena
+El retorno de string::npos significa que el elemnto no se encuentra en la cadena.
+
+4.	https://www.youtube.com/watch?v=BqnXcsZ7-6w
+La constante estática de la cadena npos
+
+En este video nos ayuda a la comprecion de string:: npos , string es la cadena y npos significa no encontrado
+Si la cadena no es igual a npos entonces sale del while o del if y seguimos a delante.
+
+6.	https://www.youtube.com/watch?v=Yibwb3n1vm0
+Programa C++ para encontrar una subcadena en una cadena
+
+Como el titulo del video lo dice nos da ejemplos de como encontrar la subcadena en el caso del comando Add fecha evento nostros queremos saber cual es la subcadena en este caso queremos saber el comando que el usuario esta usuando en este caso Add 
+
